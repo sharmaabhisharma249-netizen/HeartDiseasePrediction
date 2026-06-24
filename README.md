@@ -1,5 +1,3 @@
-# CodeAlpha_HeartDiseasePrediction
-
 ## Heart Disease Prediction using Machine Learning
 
 This project is developed as part of the Machine Learning Internship at CodeAlpha.
